@@ -30,3 +30,4 @@ Python, Pandas, Matplotlib
 - Revenue varies over time, showing clear changes across months.
 - A small number of categories generates a large share of total revenue.
 - Payment methods are not evenly distributed, which can guide checkout and marketing decisions.
+Dataset available on Kaggle. (Pakistan Largest Ecommerce Dataset)
